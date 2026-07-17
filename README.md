@@ -16,22 +16,41 @@ An Arduino-based voice-controlled robotic car that enables hands-free navigation
 - Chassis
 - Battery Pack
 
-## Project Images
+## Installation
 
-### Prototype 1
-![Prototype 1](prototype_1.jpeg)
+1. Clone this repository.
+2. Open the Arduino code in Arduino IDE.
+3. Install the AFMotor library.
+4. Upload the code to Arduino Uno.
+5. Pair your smartphone with the HC-05 module.
+6. Use a Bluetooth voice control app to send commands.
 
-### Prototype 2
-![Prototype 2](prototype_2.jpeg)
+## Usage
+
+- Connect the HC-05 module.
+- Open the voice control app.
+- Speak commands such as:
+  - Forward
+  - Backward
+  - Left
+  - Right
+  - Stop
 
 ## Circuit Diagram
 
-![Circuit Diagram](circuit_diagram.jpeg)
+![Circuit Diagram](Circuit_Diagram/circuit_diagram.jpeg)
+
+## Project Images
+
+### Prototype 1
+![Prototype 1](Images/prototype_1.jpeg)
+
+### Prototype 2
+![Prototype 2](Images/prototype_2.jpeg)
 
 ## Working Demonstration
 
-Download or watch the demo here: [working_demo.mp4](working_demo.mp4)
-
+[Watch Demo Video](Demo/working_demo.mp4)
 
 ## License
 MIT
