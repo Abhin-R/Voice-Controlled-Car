@@ -16,14 +16,21 @@ An Arduino-based voice-controlled robotic car that enables hands-free navigation
 - Chassis
 - Battery Pack
 
+## Project Images
+
+### Prototype 1
+![Prototype 1](prototype_1.jpeg)
+
+### Prototype 2
+![Prototype 2](prototype_2.jpeg)
+
 ## Circuit Diagram
 
-## Working
+![Circuit Diagram](circuit_diagram.jpeg)
 
-## Prototype
+## Working Demonstration
 
-
-
+Download or watch the demo here: [working_demo.mp4](working_demo.mp4)
 
 
 ## License
