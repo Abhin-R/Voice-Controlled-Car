@@ -20,11 +20,11 @@ An Arduino-based voice-controlled robotic car that enables hands-free navigation
 
 ## Working
 
-## Installation
+## Prototype
 
-## Usage
 
-## Future Improvements
+
+
 
 ## License
 MIT
